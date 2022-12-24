@@ -37,11 +37,12 @@
         
     }
    img{
-    width: 20%;
-    height: 20%;
+    width: 20px;
+    height: 20px;
     overflow: hidden;
     padding-top: 15px;
     align-self: center;
+    margin-left: 100px;
    }
    h3{
     font-size: 3px;
